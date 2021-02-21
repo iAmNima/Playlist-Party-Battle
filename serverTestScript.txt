@@ -1,0 +1,10 @@
+Token = "sUZaHFWuCu1ekyBnnd46Lw=="
+----------------
+POST
+
+http://localhost:8080/User/SignIn
+[{"username":"nima","password":"1"}]
+
+
+----------------
+

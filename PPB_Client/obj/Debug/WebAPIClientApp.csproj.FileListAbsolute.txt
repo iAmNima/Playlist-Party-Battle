@@ -1,0 +1,283 @@
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\WebAPIClientApp.exe.config
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\WebAPIClientApp.exe
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\WebAPIClientApp.pdb
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\EventStore.dll
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\EventStore.Serialization.Json.dll
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\Newtonsoft.Json.dll
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\System.Net.Http.Formatting.dll
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\EventStore.pdb
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\EventStore.xml
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\EventStore.Serialization.Json.pdb
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\Newtonsoft.Json.xml
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\System.Net.Http.Formatting.xml
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\obj\Debug\WebAPIClientApp.exe
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\obj\Debug\WebAPIClientApp.pdb
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\obj\Debug\WebAPIClientApp.csproj.CoreCompileInputs.cache
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\obj\Debug\WebAPIClientApp.csproj.CopyComplete
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\netstandard.dll
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\System.AppContext.dll
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\System.Collections.Concurrent.dll
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\System.Collections.dll
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\System.Collections.NonGeneric.dll
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\System.Collections.Specialized.dll
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\System.ComponentModel.dll
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\System.ComponentModel.Primitives.dll
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\System.Console.dll
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\System.Data.Common.dll
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\System.Diagnostics.Contracts.dll
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\System.Diagnostics.Debug.dll
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\System.Diagnostics.Process.dll
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\System.Diagnostics.Tools.dll
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\System.Diagnostics.Tracing.dll
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\System.Drawing.Primitives.dll
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\System.Dynamic.Runtime.dll
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\System.Globalization.Calendars.dll
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\System.Globalization.dll
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\System.Globalization.Extensions.dll
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\System.IO.Compression.dll
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\System.IO.dll
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\System.IO.FileSystem.dll
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\System.IO.IsolatedStorage.dll
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\System.IO.Pipes.dll
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\System.Linq.dll
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\System.Linq.Expressions.dll
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\System.Linq.Parallel.dll
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\System.Linq.Queryable.dll
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\System.Net.Http.dll
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\System.Net.NameResolution.dll
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\System.Net.NetworkInformation.dll
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\System.Net.Ping.dll
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\System.Net.Primitives.dll
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\System.Net.Requests.dll
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\System.Net.Security.dll
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\System.Net.Sockets.dll
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\System.Net.WebSockets.Client.dll
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\System.Net.WebSockets.dll
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\System.ObjectModel.dll
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\System.Reflection.dll
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\System.Reflection.Extensions.dll
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\System.Reflection.Primitives.dll
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\System.Resources.Reader.dll
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\System.Resources.ResourceManager.dll
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\System.Resources.Writer.dll
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\System.Runtime.dll
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\System.Runtime.Extensions.dll
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\System.Runtime.Handles.dll
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\System.Runtime.InteropServices.dll
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\System.Runtime.Numerics.dll
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\System.Security.Claims.dll
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\System.Security.Principal.dll
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\System.Security.SecureString.dll
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\System.Text.Encoding.dll
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\System.Text.RegularExpressions.dll
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\System.Threading.dll
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\System.Threading.Overlapped.dll
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\System.Threading.Tasks.dll
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\System.Threading.Thread.dll
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\System.Threading.ThreadPool.dll
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\System.Threading.Timer.dll
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\System.Xml.ReaderWriter.dll
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\System.Xml.XDocument.dll
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\System.Xml.XmlDocument.dll
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\System.Xml.XmlSerializer.dll
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\System.Xml.XPath.dll
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\Npgsql.dll
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\System.Buffers.dll
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\System.Memory.dll
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\System.Numerics.Vectors.dll
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\System.Text.Encodings.Web.dll
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\System.Text.Json.dll
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\System.Threading.Channels.dll
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\System.ValueTuple.dll
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\Npgsql.xml
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\System.Buffers.xml
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\System.Memory.xml
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\System.Numerics.Vectors.xml
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\System.Text.Encodings.Web.xml
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\System.Text.Json.xml
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\System.Threading.Channels.xml
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\bin\Debug\System.ValueTuple.xml
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\WebAPIClientApp.exe.config
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\WebAPIClientApp.exe
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\WebAPIClientApp.pdb
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\netstandard.dll
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\System.AppContext.dll
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\System.Collections.Concurrent.dll
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\System.Collections.dll
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\System.Collections.NonGeneric.dll
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\System.Collections.Specialized.dll
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\System.ComponentModel.dll
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\System.ComponentModel.Primitives.dll
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\System.Console.dll
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\System.Data.Common.dll
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\System.Diagnostics.Contracts.dll
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\System.Diagnostics.Debug.dll
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\System.Diagnostics.Process.dll
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\System.Diagnostics.Tools.dll
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\System.Diagnostics.Tracing.dll
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\System.Drawing.Primitives.dll
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\System.Dynamic.Runtime.dll
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\System.Globalization.Calendars.dll
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\System.Globalization.dll
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\System.Globalization.Extensions.dll
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\System.IO.Compression.dll
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\System.IO.dll
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\System.IO.FileSystem.dll
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\System.IO.IsolatedStorage.dll
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\System.IO.Pipes.dll
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\System.Linq.dll
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\System.Linq.Expressions.dll
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\System.Linq.Parallel.dll
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\System.Linq.Queryable.dll
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\System.Net.Http.dll
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\System.Net.NameResolution.dll
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\System.Net.NetworkInformation.dll
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\System.Net.Ping.dll
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\System.Net.Primitives.dll
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\System.Net.Requests.dll
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\System.Net.Security.dll
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\System.Net.Sockets.dll
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\System.Net.WebSockets.Client.dll
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\System.Net.WebSockets.dll
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\System.ObjectModel.dll
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\System.Reflection.dll
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\System.Reflection.Extensions.dll
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\System.Reflection.Primitives.dll
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\System.Resources.Reader.dll
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\System.Resources.ResourceManager.dll
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\System.Resources.Writer.dll
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\System.Runtime.dll
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\System.Runtime.Extensions.dll
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\System.Runtime.Handles.dll
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\System.Runtime.InteropServices.dll
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\System.Runtime.Numerics.dll
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\System.Security.Claims.dll
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\System.Security.Principal.dll
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\System.Security.SecureString.dll
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\System.Text.Encoding.dll
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\System.Text.RegularExpressions.dll
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\System.Threading.dll
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\System.Threading.Overlapped.dll
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\System.Threading.Tasks.dll
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\System.Threading.Thread.dll
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\System.Threading.ThreadPool.dll
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\System.Threading.Timer.dll
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\System.Xml.ReaderWriter.dll
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\System.Xml.XDocument.dll
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\System.Xml.XmlDocument.dll
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\System.Xml.XmlSerializer.dll
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\System.Xml.XPath.dll
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\EventStore.dll
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\EventStore.Serialization.Json.dll
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\Newtonsoft.Json.dll
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\Npgsql.dll
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\System.Buffers.dll
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\System.Memory.dll
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\System.Net.Http.Formatting.dll
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\System.Numerics.Vectors.dll
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\System.Text.Encodings.Web.dll
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\System.Text.Json.dll
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\System.Threading.Channels.dll
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\System.ValueTuple.dll
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\EventStore.pdb
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\EventStore.xml
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\EventStore.Serialization.Json.pdb
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\Newtonsoft.Json.xml
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\Npgsql.xml
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\System.Buffers.xml
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\System.Memory.xml
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\System.Net.Http.Formatting.xml
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\System.Numerics.Vectors.xml
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\System.Text.Encodings.Web.xml
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\System.Text.Json.xml
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\System.Threading.Channels.xml
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\bin\Debug\System.ValueTuple.xml
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\obj\Debug\WebAPIClientApp.csprojAssemblyReference.cache
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\obj\Debug\WebAPIClientApp.csproj.CoreCompileInputs.cache
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\obj\Debug\WebAPIClientApp.csproj.CopyComplete
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\obj\Debug\WebAPIClientApp.exe
+C:\WebAPISelfHost\WebAPISelfHost - Copy\WebAPIClientApp\obj\Debug\WebAPIClientApp.pdb
+C:\WebAPISelfHost\WebAPISelfHost\WebAPIClientApp\obj\Debug\WebAPIClientApp.csprojAssemblyReference.cache
+C:\WebApi\WebAPIClientApp\bin\Debug\WebAPIClientApp.exe.config
+C:\WebApi\WebAPIClientApp\bin\Debug\WebAPIClientApp.exe
+C:\WebApi\WebAPIClientApp\bin\Debug\WebAPIClientApp.pdb
+C:\WebApi\WebAPIClientApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\WebApi\WebAPIClientApp\bin\Debug\Newtonsoft.Json.dll
+C:\WebApi\WebAPIClientApp\bin\Debug\System.Buffers.dll
+C:\WebApi\WebAPIClientApp\bin\Debug\System.Memory.dll
+C:\WebApi\WebAPIClientApp\bin\Debug\System.Net.Http.Formatting.dll
+C:\WebApi\WebAPIClientApp\bin\Debug\System.Numerics.Vectors.dll
+C:\WebApi\WebAPIClientApp\bin\Debug\System.ValueTuple.dll
+C:\WebApi\WebAPIClientApp\bin\Debug\System.Net.Http.Formatting.xml
+C:\WebApi\WebAPIClientApp\obj\Debug\WebAPIClientApp.csproj.CoreCompileInputs.cache
+C:\WebApi\WebAPIClientApp\obj\Debug\WebAPIClientApp.csproj.CopyComplete
+C:\WebApi\WebAPIClientApp\obj\Debug\WebAPIClientApp.exe
+C:\WebApi\WebAPIClientApp\obj\Debug\WebAPIClientApp.pdb
